@@ -1,0 +1,37 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 712d0c77bcfe2134d81dba775e73c83a, type: 3}
+  m_Name: 2f
+  m_EditorClassIdentifier: Assembly-CSharp::FloorData
+  pattern:
+  - prefab: {fileID: 3430459755298397524, guid: 7824ed29bfe2f3d469833129fcbee841, type: 3}
+    spacing: 0
+  - prefab: {fileID: 3430459755298397524, guid: 7824ed29bfe2f3d469833129fcbee841, type: 3}
+    spacing: 0.3
+  - prefab: {fileID: 8991774694039954626, guid: 71d4b126cc62a884d9675702f3326dcd, type: 3}
+    spacing: 0.6
+  - prefab: {fileID: 3430459755298397524, guid: 7824ed29bfe2f3d469833129fcbee841, type: 3}
+    spacing: 0.9
+  - prefab: {fileID: 3430459755298397524, guid: 7824ed29bfe2f3d469833129fcbee841, type: 3}
+    spacing: 1.2
+  - prefab: {fileID: 8991774694039954626, guid: 71d4b126cc62a884d9675702f3326dcd, type: 3}
+    spacing: 1.5
+  - prefab: {fileID: 3430459755298397524, guid: 7824ed29bfe2f3d469833129fcbee841, type: 3}
+    spacing: 1.8
+  - prefab: {fileID: 3430459755298397524, guid: 7824ed29bfe2f3d469833129fcbee841, type: 3}
+    spacing: 2.1
+  - prefab: {fileID: 4517805692629523360, guid: 7bbdf0252a9098943aa0ea445bc2884c, type: 3}
+    spacing: 2.4
+  startX: 3
+  floorY: 6
+  playerSpawnPos: {x: -2.35, y: 6}
+  cameraPos: {x: 0, y: 6.84, z: -10}

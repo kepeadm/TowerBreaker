@@ -1,0 +1,69 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 712d0c77bcfe2134d81dba775e73c83a, type: 3}
+  m_Name: 4f
+  m_EditorClassIdentifier: Assembly-CSharp::FloorData
+  pattern:
+  - prefab: {fileID: 8991774694039954626, guid: 71d4b126cc62a884d9675702f3326dcd, type: 3}
+    spacing: 0
+  - prefab: {fileID: 8991774694039954626, guid: 71d4b126cc62a884d9675702f3326dcd, type: 3}
+    spacing: 0.3
+  - prefab: {fileID: 8991774694039954626, guid: 71d4b126cc62a884d9675702f3326dcd, type: 3}
+    spacing: 0.6
+  - prefab: {fileID: 1399398640300490938, guid: ac2f0860d2b999545b333c9446feb360, type: 3}
+    spacing: 0.9
+  - prefab: {fileID: 8991774694039954626, guid: 71d4b126cc62a884d9675702f3326dcd, type: 3}
+    spacing: 1.2
+  - prefab: {fileID: 8991774694039954626, guid: 71d4b126cc62a884d9675702f3326dcd, type: 3}
+    spacing: 1.5
+  - prefab: {fileID: 8991774694039954626, guid: 71d4b126cc62a884d9675702f3326dcd, type: 3}
+    spacing: 1.8
+  - prefab: {fileID: 1399398640300490938, guid: ac2f0860d2b999545b333c9446feb360, type: 3}
+    spacing: 2.1
+  - prefab: {fileID: 8991774694039954626, guid: 71d4b126cc62a884d9675702f3326dcd, type: 3}
+    spacing: 2.4
+  - prefab: {fileID: 8991774694039954626, guid: 71d4b126cc62a884d9675702f3326dcd, type: 3}
+    spacing: 2.7
+  - prefab: {fileID: 8991774694039954626, guid: 71d4b126cc62a884d9675702f3326dcd, type: 3}
+    spacing: 3
+  - prefab: {fileID: 1399398640300490938, guid: ac2f0860d2b999545b333c9446feb360, type: 3}
+    spacing: 3.3
+  - prefab: {fileID: 8991774694039954626, guid: 71d4b126cc62a884d9675702f3326dcd, type: 3}
+    spacing: 3.6
+  - prefab: {fileID: 8991774694039954626, guid: 71d4b126cc62a884d9675702f3326dcd, type: 3}
+    spacing: 3.9
+  - prefab: {fileID: 8991774694039954626, guid: 71d4b126cc62a884d9675702f3326dcd, type: 3}
+    spacing: 4.2
+  - prefab: {fileID: 1399398640300490938, guid: ac2f0860d2b999545b333c9446feb360, type: 3}
+    spacing: 4.5
+  - prefab: {fileID: 8991774694039954626, guid: 71d4b126cc62a884d9675702f3326dcd, type: 3}
+    spacing: 4.8
+  - prefab: {fileID: 8991774694039954626, guid: 71d4b126cc62a884d9675702f3326dcd, type: 3}
+    spacing: 5.1
+  - prefab: {fileID: 8991774694039954626, guid: 71d4b126cc62a884d9675702f3326dcd, type: 3}
+    spacing: 5.4
+  - prefab: {fileID: 1399398640300490938, guid: ac2f0860d2b999545b333c9446feb360, type: 3}
+    spacing: 5.7
+  - prefab: {fileID: 8991774694039954626, guid: 71d4b126cc62a884d9675702f3326dcd, type: 3}
+    spacing: 6
+  - prefab: {fileID: 8991774694039954626, guid: 71d4b126cc62a884d9675702f3326dcd, type: 3}
+    spacing: 6.3
+  - prefab: {fileID: 8991774694039954626, guid: 71d4b126cc62a884d9675702f3326dcd, type: 3}
+    spacing: 6.6
+  - prefab: {fileID: 1399398640300490938, guid: ac2f0860d2b999545b333c9446feb360, type: 3}
+    spacing: 6.9
+  - prefab: {fileID: 6521201090247875856, guid: 4c2891f68b8847d4897488f21fc0807d, type: 3}
+    spacing: 7.2
+  startX: 3
+  floorY: 20
+  playerSpawnPos: {x: -2.35, y: 20}
+  cameraPos: {x: 0, y: 20.53, z: -10}
