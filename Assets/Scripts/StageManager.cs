@@ -85,6 +85,7 @@ public class StageManager : MonoBehaviour
     // ── 나가기 (StagePanel / EndPanel 버튼에 연결) ─
     public void ExitToLobby()
     {
+        this.GetComponent<GameManager>().SaveGame();
         Time.timeScale = 1f;
         UnityEngine.SceneManagement.SceneManager.LoadScene("OutGame");
     }

@@ -1,3 +1,5 @@
+#if UNITY_EDITOR
+
 using UnityEngine;
 using UnityEditor;
 
@@ -25,3 +27,4 @@ public class GameManagerEditor : Editor
         GUI.backgroundColor = Color.white;
     }
 }
+#endif
